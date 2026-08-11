@@ -2,8 +2,8 @@ name: Check Kotanamur listings
 
 on:
   schedule:
-    # Avoid the busiest part of the hour. Times are UTC.
-    - cron: "7,22,37,52 * * * *"
+    # Temporary 5-minute schedule to verify automatic triggering. Times are UTC.
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
