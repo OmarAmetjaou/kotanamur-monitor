@@ -224,12 +224,14 @@
     "KN/5996",
     "KN/6000",
     "KN/6001",
+    "KN/6003",
+    "KN/6004",
     "KN/635",
     "KN/665",
     "KN/774",
     "KN/785",
     "KN/932"
   ],
-  "last_successful_check": "2026-09-30T08:59:21.576552+00:00",
-  "last_listing_count": 67
+  "last_successful_check": "2026-10-01T19:01:37.653201+00:00",
+  "last_listing_count": 64
 }
